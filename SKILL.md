@@ -6,6 +6,7 @@ description: >
   discussion, claim-calibration, literature-positioning, visual and writing-style gaps, and
   recommend the highest-leverage revisions. This is a relative gap analysis, not an acceptance predictor.
 version: 1.0
+  中文触发：期刊差距分析、目标期刊对标、论文期刊匹配；English triggers: journal gap analysis, journal benchmark comparison.
 ---
 
 # Journal Gap Analyzer
@@ -590,3 +591,7 @@ Do not:
 
 ## Minimal-change mode
 “Identify the three gaps that matter most and the three areas I should not change. Prioritise fixes that can be made using existing data.”
+
+## Optional v3 research-group interface
+
+Standalone use is the default. Read `references/research-group-interop-v3.md` only for genuine cross-Skill work. Own **Comparison against explicitly identified target-journal benchmark papers and journal guidance**; do not silently take over **Predicting acceptance probability or inventing current journal preferences**. Report source/version, actual tool use, issue owner and located evidence; never invent a completed delegation.
