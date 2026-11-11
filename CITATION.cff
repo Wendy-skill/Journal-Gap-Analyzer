@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this Skill, please cite it using these metadata."
+type: software
+title: "Journal Gap Analyzer"
+authors:
+  - given-names: "wendy.z"
+    alias: "Wendy-skill"
+abstract: >-
+  A research-paper Skill designed to answer one practical question:
+repository-code: "https://github.com/Wendy-skill/Journal-Gap-Analyzer"
+license: Apache-2.0
